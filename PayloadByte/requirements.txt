@@ -1,0 +1,4 @@
+# Minimal, standard library only. Uncomment optional extras as needed.
+# rich==13.7.1        # Pretty CLI output (optional)
+# yara-python==4.5.1  # YARA rules support (optional)
+# numpy==2.0.2        # Optional for speedier entropy computations
